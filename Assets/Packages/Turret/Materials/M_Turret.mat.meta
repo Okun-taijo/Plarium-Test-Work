@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9877ce69ee34fe146a8cd51b6bf5a199
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5737
+  packageName: WCE - Turret
+  packageVersion: 1.11
+  assetPath: Assets/Turret/Materials/M_Turret.mat
+  uploadId: 27263

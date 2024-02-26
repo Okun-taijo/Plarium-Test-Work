@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3805001679a8724791bd748d9dab428
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5737
+  packageName: WCE - Turret
+  packageVersion: 1.11
+  assetPath: Assets/Turret/Prefabs/P_Turret.prefab
+  uploadId: 27263

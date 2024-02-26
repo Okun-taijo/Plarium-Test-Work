@@ -1,0 +1,5 @@
+# ninja log v5
+2198	2495	7306726463272736	D:/Unity/BoatEvolution_Plarium Test Work/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.BoatEvolution_PlariumTestWork/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4t4j2al2/obj/armeabi-v7a/libswappywrapper.so	1cdc35bcc688e5d5
+0	2196	7306726461313263	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a72478b37a30327
+2	237	7306744558570640	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a72478b37a30327
+237	599	7306744561829641	D:/Unity/BoatEvolution_Plarium Test Work/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.BoatEvolution_PlariumTestWork/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4t4j2al2/obj/armeabi-v7a/libswappywrapper.so	1cdc35bcc688e5d5

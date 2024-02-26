@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3fd44cddea363d846a7bd6b031c97dc3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5737
+  packageName: WCE - Turret
+  packageVersion: 1.11
+  assetPath: Assets/Turret/Scene.unity
+  uploadId: 27263
